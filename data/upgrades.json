@@ -1,0 +1,62 @@
+[
+  {
+    "key": "skeleton_sea",
+    "title": "骷髅海",
+    "body": "每次召唤骷髅 +1，军势上限 +2。\n代价：召唤师最大生命 -10。",
+    "effects": { "skeletonBatch": 1, "summonCap": 2, "playerMaxHp": -10 }
+  },
+  {
+    "key": "bone_debt",
+    "title": "骨债磨砺",
+    "body": "所有亡灵伤害提高 22%。\n代价：现有亡灵最大生命降低 8%。",
+    "effects": { "summonDamageMult": 1.22, "summonHpMult": 0.92 }
+  },
+  {
+    "key": "void_tomb",
+    "title": "空坟王令",
+    "body": "军势上限 +5，立刻获得 8 具尸骸。\n代价：墓王提前 30 秒苏醒。",
+    "effects": { "summonCap": 5, "bones": 8, "bossWakeAdvance": 30 }
+  },
+  {
+    "key": "corpse_alchemy",
+    "title": "尸骸炼金",
+    "body": "魂火收益提高，收尸额外 +1。\n代价：召唤师移动速度 -6%。",
+    "effects": { "soulGainMult": 0.24, "corpseGainBonus": 1, "playerSpeedMult": 0.94 }
+  },
+  {
+    "key": "undead_resilience",
+    "title": "亡者韧皮",
+    "body": "召唤物生命提高 28%，召回治疗提高。\n代价：敌人伤害提高 7%。",
+    "effects": { "summonHpMult": 1.28, "minionRecallHeal": 4, "enemyDamageMult": 1.07 }
+  },
+  {
+    "key": "archer",
+    "title": "骨矢契约",
+    "body": "解锁骸骨弓手，并立刻唤起两名弓手。\n代价：终契上限 +10。",
+    "effects": { "archerUnlocked": true, "terminalChargeMax": 10, "bones": 6, "soul": 6, "summonCap": 2, "summonArcher": 2 }
+  },
+  {
+    "key": "mage",
+    "title": "寒魂法师",
+    "body": "解锁亡灵法师，灵魂弹穿透并减速。\n代价：魂火收益降低 10%。",
+    "effects": { "mageUnlocked": true, "soulGainMult": -0.1, "bones": 4, "soul": 8, "summonCap": 3, "summonMage": 1 }
+  },
+  {
+    "key": "knight",
+    "title": "墓骑士转化",
+    "body": "精英怪有概率转化为墓穴骑士，军势上限 +3。\n代价：精英与 Boss 移速提高 8%。",
+    "effects": { "knightUnlocked": true, "summonCap": 3, "enemySpeedMult": 1.08 }
+  },
+  {
+    "key": "colossus",
+    "title": "白骨巨像仪式",
+    "body": "终契可召唤白骨巨像，军势上限 +6。\n代价：墓王提前 45 秒苏醒。",
+    "effects": { "colossusUnlocked": true, "summonCap": 6, "bossWakeAdvance": 45 }
+  },
+  {
+    "key": "curse_fire",
+    "title": "咒火护身",
+    "body": "召唤师最大生命 +28，自动骨矛伤害提高。\n代价：敌人移速提高 6%。",
+    "effects": { "playerMaxHp": 28, "playerDamage": 7, "enemySpeedMult": 1.06 }
+  }
+]

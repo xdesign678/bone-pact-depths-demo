@@ -1,0 +1,25 @@
+{
+  "name": "骨契深渊",
+  "short_name": "骨契深渊",
+  "description": "竖屏像素暗黑亡灵召唤幸存者肉鸽原型。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#10100f",
+  "theme_color": "#10100f",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

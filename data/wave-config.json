@@ -1,0 +1,16 @@
+{
+  "spawnIntervalBase": 760,
+  "spawnIntervalMin": 210,
+  "spawnIntervalTierDecay": 65,
+  "spawnCountBase": [1, 2],
+  "bossWakeTime": 540,
+  "bossWarningAdvance": 60,
+  "waveTierInterval": 70,
+  "maxWaveTier": 8,
+  "enemyRolls": {
+    "thrall": { "maxRoll": 50, "minElapsed": 0 },
+    "crawler": { "maxRoll": 74, "minElapsed": 35 },
+    "witch": { "maxRoll": 92, "minElapsed": 70 },
+    "elite": { "maxRoll": 100, "minElapsed": 90 }
+  }
+}

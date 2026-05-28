@@ -1,0 +1,162 @@
+{
+  "sfx": {
+    "hit_bone": [
+      "sfx/hit_bone-1.ogg",
+      "sfx/hit_bone-2.ogg",
+      "sfx/hit_bone-3.ogg"
+    ],
+    "hit_flesh": [
+      "sfx/hit_flesh-1.ogg",
+      "sfx/hit_flesh-2.ogg",
+      "sfx/hit_flesh-3.ogg"
+    ],
+    "hit_magic": [
+      "sfx/hit_magic-1.ogg",
+      "sfx/hit_magic-2.ogg",
+      "sfx/hit_magic-3.ogg"
+    ],
+    "hit_player": [
+      "sfx/hit_player-1.ogg",
+      "sfx/hit_player-2.ogg",
+      "sfx/hit_player-3.ogg"
+    ],
+    "hit": [
+      "sfx/hit-1.ogg",
+      "sfx/hit-2.ogg"
+    ],
+    "swing_slash": [
+      "sfx/swing_slash-1.ogg",
+      "sfx/swing_slash-2.ogg"
+    ],
+    "swing_blunt": [
+      "sfx/swing_blunt-1.ogg",
+      "sfx/swing_blunt-2.ogg"
+    ],
+    "swing_claw": [
+      "sfx/swing_claw-1.ogg",
+      "sfx/swing_claw-2.ogg"
+    ],
+    "death_small": [
+      "sfx/death_small-1.ogg",
+      "sfx/death_small-2.ogg"
+    ],
+    "death_elite": [
+      "sfx/death_elite-1.ogg",
+      "sfx/death_elite-2.ogg"
+    ],
+    "death_boss": [
+      "sfx/death_boss-1.ogg",
+      "sfx/death_boss-2.ogg"
+    ],
+    "corpse_decay": [
+      "sfx/corpse_decay-1.ogg",
+      "sfx/corpse_decay-2.ogg"
+    ],
+    "projectile_bone": [
+      "sfx/projectile_bone-1.ogg",
+      "sfx/projectile_bone-2.ogg",
+      "sfx/projectile_bone-3.ogg"
+    ],
+    "projectile_magic": [
+      "sfx/projectile_magic-1.ogg",
+      "sfx/projectile_magic-2.ogg",
+      "sfx/projectile_magic-3.ogg"
+    ],
+    "projectile_spirit": [
+      "sfx/projectile_spirit-1.ogg",
+      "sfx/projectile_spirit-2.ogg",
+      "sfx/projectile_spirit-3.ogg"
+    ],
+    "necrotic_bolt": [
+      "sfx/necrotic_bolt-1.ogg",
+      "sfx/necrotic_bolt-2.ogg",
+      "sfx/necrotic_bolt-3.ogg"
+    ],
+    "death_mark": [
+      "sfx/death_mark-1.ogg",
+      "sfx/death_mark-2.ogg",
+      "sfx/death_mark-3.ogg"
+    ],
+    "explosion_corpse": [
+      "sfx/explosion_corpse-1.ogg",
+      "sfx/explosion_corpse-2.ogg",
+      "sfx/explosion_corpse-3.ogg",
+      "sfx/explosion_corpse-4.ogg"
+    ],
+    "enemy_attack_bone": [
+      "sfx/enemy_attack_bone-1.ogg",
+      "sfx/enemy_attack_bone-2.ogg",
+      "sfx/enemy_attack_bone-3.ogg"
+    ],
+    "enemy_attack_claw": [
+      "sfx/enemy_attack_claw-1.ogg",
+      "sfx/enemy_attack_claw-2.ogg"
+    ],
+    "enemy_attack_magic": [
+      "sfx/enemy_attack_magic-1.ogg",
+      "sfx/enemy_attack_magic-2.ogg",
+      "sfx/enemy_attack_magic-3.ogg"
+    ],
+    "pickup": [
+      "sfx/pickup-1.ogg"
+    ],
+    "level": [
+      "sfx/level-1.ogg",
+      "sfx/level-2.ogg"
+    ],
+    "choose": [
+      "sfx/choose-1.ogg"
+    ],
+    "deny": [
+      "sfx/deny-1.ogg"
+    ],
+    "summon": [
+      "sfx/summon-1.ogg"
+    ],
+    "summon_large": [
+      "sfx/summon_large-1.ogg"
+    ],
+    "sacrifice": [
+      "sfx/sacrifice-1.ogg",
+      "sfx/sacrifice-2.ogg"
+    ],
+    "terminal": [
+      "sfx/terminal-1.ogg"
+    ],
+    "boss_warning": [
+      "sfx/boss_warning-1.ogg",
+      "sfx/boss_warning-2.ogg"
+    ],
+    "boss": [
+      "sfx/boss-1.ogg",
+      "sfx/boss-2.ogg"
+    ],
+    "blood_moon_start": [
+      "sfx/blood_moon_start-1.ogg"
+    ],
+    "blood_moon_end": [
+      "sfx/blood_moon_end-1.ogg"
+    ],
+    "depth_transition": [
+      "sfx/depth_transition-1.ogg"
+    ],
+    "recall_horns": [
+      "sfx/recall_horns-1.ogg"
+    ],
+    "milestone_upgrade": [
+      "sfx/milestone_upgrade-1.ogg"
+    ],
+    "victory": [
+      "sfx/victory-1.ogg",
+      "sfx/victory-2.ogg"
+    ],
+    "defeat": [
+      "sfx/defeat-1.ogg"
+    ]
+  },
+  "bgm": {
+    "ambience-dungeon-loop": "bgm/ambience-dungeon-loop.ogg",
+    "ambience-dungeon-002": "bgm/ambience-dungeon-002.ogg"
+  },
+  "license": "CC0 (Kenney) / CC0 (OpenGameArt)"
+}
